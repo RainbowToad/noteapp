@@ -17,14 +17,14 @@ You then navigate to https:localhost:3001 to view and utilize.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Deployed URL:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshots:
+Homepage
+![localhost_3001_](https://user-images.githubusercontent.com/111533301/205137386-4db93101-35b7-4e9c-a6d4-56a30f65059a.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+Note taking interface
+![localhost_3001_notes](https://user-images.githubusercontent.com/111533301/205137214-cd71d108-2262-4c07-a1df-c2ff84e84d27.png)
 
 
 ## License
