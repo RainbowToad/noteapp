@@ -13,7 +13,7 @@ To install this app you can git clone the repository.
 You will then need to navigate to the appropriate folder.
 Starting a terminal from there you will run npm i to install express.js. 
 You can then launch the app with node server.js
-You then navigate to https:localhost:3001 to view and utilize. 
+You then navigate to https//:localhost:3001 to view and utilize. 
 
 ## Usage
 
